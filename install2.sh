@@ -25,7 +25,7 @@ echo -e "\u001b[32mDone checking instalation!"
 
 echo -e "\u001b[36mCloning reposito!"
 git clone https://github.com/mochiidyt/mochi-bot.git games-wabot
-if [ -d $dir/games-wabot ]; then
+if [ -d $dir/mochi-bot ]; then
   echo -e "\u001b[36mDone clone reposito!"
 else
   echo -e "\u001b[31mFail to clone reposito!"
@@ -33,7 +33,7 @@ else
 fi
 
 echo -e "\u001b[36mChange working directory!"
-cd games-wabot
+cd mochi-bot
 main_dir=$(pwd)
 if [ $main_dir != $dir ]; then
   echo -e "\u001b[36mDone change working directory!"
