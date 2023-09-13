@@ -1,5 +1,5 @@
 {
-  "name": "games-wabot",
+  "name": "mochi-bot",
   "version": "0.9.8",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -26,13 +26,13 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/BochilGaming/games-wabot",
+  "homepage": "https://github.com/mochiidyt/mochi-bot",
   "author": {
-    "name": "BochilGaming"
+    "name": "Mochii"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BochilGaming/games-wabot.git"
+    "url": "git+https://github.com/mochiidyt/mochi-bot.git"
   },
   "bugs": {
     "url": "https://github.com/BochilGaming/games-wabot/issues"
